@@ -75,6 +75,10 @@ too - it's ignored in the kickstart repo to make maintenance easier, but it's
 ```sh
 git clone https://github.com/ram-mashruwala/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
 ```
+or
+```sh
+git clone git@github.com:ram-mashruwala/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
+```
 
 </details>
 
