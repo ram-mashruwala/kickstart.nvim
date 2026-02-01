@@ -1246,6 +1246,7 @@ require('lazy').setup({
   require 'custom.plugins.git',
   require 'custom.plugins.org',
   require 'custom.plugins.harpoonplugin',
+  require 'custom.plugins.iron-nvim',
   -- require 'custom.plugins.r-editor',
   -- require 'custom.plugins.jupyter',
   -- require 'custom.plugins.juypiter',
